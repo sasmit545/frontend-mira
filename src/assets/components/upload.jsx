@@ -78,7 +78,7 @@ const CsvUploader = () => {
       setTitle("");
       setFile(null);
       setIsFileDropped(false);
-      window.location.reload();
+      
     } catch (error) {
       console.error("Error:", error);
       setUploadStatus("Error uploading file. Please try again.");
