@@ -47,7 +47,7 @@ export default function Automation(props) {
     }
 
     try {
-      const response = await axios.post("https://mira-js.onrender.com/automation", {
+      const response = await axios.post("https://mira-js.onrender.com/api/automation", {
         leadId: selectedLead,
         html: props.html,
         myemail: email,
