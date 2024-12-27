@@ -121,7 +121,7 @@ export default function Automation(props) {
         </label>
         <input
           id="passwordInput"
-          type="password"
+          type="text"
           value={password}
           onChange={(e) => setPassword(e.target.value)}
           className="automation-input"
