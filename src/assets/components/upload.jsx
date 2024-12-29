@@ -107,13 +107,12 @@ const CsvUploader = () => {
     <strong>last_name</strong> are optional. Ensure the file is properly formatted and free from duplicate rows. 
     For reference, you can view a sample file  
     <a 
-      href="https://docs.google.com/spreadsheets/d/1LyiOV5B42MKOeKfRX7BGmN6u-K5jajy41Snk0MJ3_d8/edit?gid=0#gid=0" 
-      target="_blank" 
-      rel="noopener noreferrer"
-      style={{ color: "#4CAF50", textDecoration: "none", fontWeight: "bold" }}
-    >
-       here
-    </a>.
+  href="/sample_leads.csv" 
+  download 
+  style="color: #4CAF50; text-decoration: none; font-weight: bold;"
+>
+  Download Sample Leads
+</a>
   </p>
   <ahref ></ahref>
 
