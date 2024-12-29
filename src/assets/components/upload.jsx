@@ -106,12 +106,13 @@ const CsvUploader = () => {
     represents a lead, where the <strong>email</strong> field is mandatory, and <strong>first_name</strong> and 
     <strong>last_name</strong> are optional. Ensure the file is properly formatted and free from duplicate rows. 
     For reference, you can view a sample file  
-    <a 
-  href="/sample_leads.csv" 
-  download 
-  style={{ color: "#4CAF50", textDecoration: "none", fontWeight: "bold" }}
->
-  Download Sample Leads
+   <a 
+      href="/sample_leads.csv" 
+      target="_blank" 
+      rel="noopener noreferrer"
+      style={{ color: "#4CAF50", textDecoration: "none", fontWeight: "bold" }}
+    >
+  View Sample Leads
 </a>
 
   </p>
