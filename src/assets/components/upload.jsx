@@ -107,7 +107,7 @@ const CsvUploader = () => {
     <strong>last_name</strong> are optional. Ensure the file is properly formatted and free from duplicate rows. 
     For reference, you can view a sample file  
     <a 
-  href="/sample_leads.csv" 
+  href="./sample_leads.csv" 
   download 
   style="color: #4CAF50; text-decoration: none; font-weight: bold;"
 >
