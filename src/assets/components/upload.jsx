@@ -107,7 +107,7 @@ const CsvUploader = () => {
     <strong>last_name</strong> are optional. Ensure the file is properly formatted and free from duplicate rows. 
     For reference, you can view a sample file  
    <a 
-      href="https://docs.google.com/spreadsheets/d/1LyiOV5B42MKOeKfRX7BGmN6u-K5jajy41Snk0MJ3_d8/edit?gid=0#gid=0" 
+      href="https://docs.google.com/spreadsheets/d/1LyiOV5B42MKOeKfRX7BGmN6u-K5jajy41Snk0MJ3_d8/gviz/tq?tqx=out:csv&sheet=sheet1" 
       target="_blank" 
       rel="noopener noreferrer"
       style={{ color: "#4CAF50", textDecoration: "none", fontWeight: "bold" }}
