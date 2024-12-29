@@ -69,7 +69,7 @@ export default function Automation(props) {
 
   return (
     <div className="automation-container">
-      <h1 className="automation-header">Lead Automation Dashboard</h1>
+      <h1 className="automation-header">Email Automation Dashboard</h1>
       
       {error && <div className="automation-error">Error: {error}</div>}
       
