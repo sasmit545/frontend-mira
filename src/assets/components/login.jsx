@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
-
+import './log.css'
 export default function Login(props) {
     const [show, setShow] = useState(false);
 
